@@ -24,5 +24,7 @@ You may use this to view and add any tags, products or categories to your e-comm
 
 ## Walkthrough Video
 
+https://drive.google.com/file/d/162wRAD7SqJLLG0iTX9f7lF4cCq9yWa9t/view
+
 ## Credits 
 Thank you to third party websites like MDN and W3 for providing me with lots of information to complete this assignment. Thank you as well to MySQL and  Sequelize for providing the necessary functions to allow this application to work.
